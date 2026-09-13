@@ -26,7 +26,8 @@ Built around document processing, semantic retrieval, embeddings, and LLM-based 
 ## Areas of Interest
 
 `Autonomous Systems` · `Multimodal ML` · `Predictive Modeling` ·
-`World Models` · `Representation Learning` · `Data Engineering`
+`World Models` · `Representation Learning` · `Data Engineering` · 
+`Embedded Systems` · `Telemetry & Sensor Data` · `Spatiotemporal ML`
 
 ## What I work with
 
